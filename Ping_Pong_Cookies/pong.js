@@ -1,3 +1,6 @@
+/*
+    My Ping Pong version
+*/
 var animate = window.requestAnimationFrame || 
               window.webkitRequestAnimationFrame || 
               window.mozRequestAnimationFrame || function (callback) {
