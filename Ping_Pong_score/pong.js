@@ -19,7 +19,7 @@ var ball        = new Ball(width/2, height/2);
 var scoreP      = 0;
 var scoreU      = 0;
 var sound = document.createElement("audio");
-sound.setAttribute("src","http://dl.dropbox.com/u/26141789/canvas/pingpong/Metal%20Cling%20-%20Hit.wav");
+sound.setAttribute("src","sound.wav");
 sound.preload;
 var keysDown = {};
 
